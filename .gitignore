@@ -1,0 +1,10 @@
+!.gitignore
+
+ckpts/*
+!ckpts/.gitkeep
+
+datasets/*
+!datasets/README.md
+
+
+**/__pycache__/
